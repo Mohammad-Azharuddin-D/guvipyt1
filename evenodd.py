@@ -1,4 +1,4 @@
-d=int(input("enter the value ="))
+d=int(input())
 if(d<0):
     print("invalid")
 elif(d%2==0):
